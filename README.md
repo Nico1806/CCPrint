@@ -17,13 +17,13 @@ a test package to print colorful text in the console
 ## Installation
 
 ```
-pip install CPrint
+pip install CCPrint
 ```
 
 ## Function call
 
 ```
-from CPrint import *
+from CCPrint import *
 
 cprint('text', 'string', 12, color='BLUE')
 ```
